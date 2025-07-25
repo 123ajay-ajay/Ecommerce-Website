@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to a fully-featured **eCommerce website** built using the Django framework. 
 
 ## 🚀 Features
@@ -19,3 +20,6 @@ Welcome to a fully-featured **eCommerce website** built using the Django framewo
 
 ![Homepage](images/output.png)
 
+=======
+# Ecommerce Website
+>>>>>>> 96928ab (Add screenshot)
