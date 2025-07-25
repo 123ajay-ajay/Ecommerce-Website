@@ -17,5 +17,5 @@ Welcome to a fully-featured **eCommerce website** built using the Django framewo
 
 - ## 🖼️ Screenshot
 
-![Homepage](images/screenshot.png)
+![Homepage](images/output.png)
 
