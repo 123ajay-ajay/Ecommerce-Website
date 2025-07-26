@@ -14,4 +14,9 @@ Welcome to a fully-featured **eCommerce website** built using the Django framewo
 
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript
 - **Backend**: Django, Python  
-- **Database**: SQLite  
+- **Database**: SQLite
+
+- ## 🖼️ Homepage Screenshot
+
+![Homepage](images/output.png)
+ 
